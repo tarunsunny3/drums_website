@@ -11,11 +11,11 @@ h1 {
 
 }
 
-footer {
-  color: #DBEDF3;
-  font-family: sans-serif;
+.footer {
+  text-align: center;
+  color: white;
+  margin: auto;
 }
-
 .k {
   background-image: url("images/crash.png");
 }
